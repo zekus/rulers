@@ -1,6 +1,6 @@
 # Rulers
 
-TODO: Write a gem description
+an exercise on building rails from the ground up
 
 ## Installation
 
