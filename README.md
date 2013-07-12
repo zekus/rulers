@@ -1,6 +1,6 @@
 # Rulers
 
-an exercise on building rails from the ground up
+rebuilding rails to understand it from inside
 
 ## Installation
 
